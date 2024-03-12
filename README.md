@@ -12,6 +12,13 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-a4b73a?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Node.js]&nbsp;
+![MongoDB]&nbsp;
+![Tailwind-CSS]&nbsp;
+![Bootstrap]&nbsp;
+![react.js]&nbsp;
+![Next.js]&nbsp;
+![ReactNative]&nbsp;
   
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-017AD7?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=017AD7)&nbsp;
