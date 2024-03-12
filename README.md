@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Hariom+Dangi;I'm+21+years+old;I+from+Bhopal,+Madhya+Pradesh;I+study+front+end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=akshaydangigithub&theme=gotham&hide_border=true&area=true)
-
-
 <div align="center">  
 <a href="https://www.instagram.com/akshuuu_4u/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  <a href="https://www.linkedin.com/in/hariom-dangi-3160a1246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
