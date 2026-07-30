@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Hariom+Dangi;GenAI+Developer+🤖;Python+Developer+🐍;AI+Agents+%7C+RAG+%7C+MCP;Full+Stack+Developer;Building+Production-Ready+AI+Applications)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Hariom Dangi</h1>
 <h3 align="center">GenAI Developer | Python Developer | AI Agents | Full Stack Developer</h3>
 
 ---
